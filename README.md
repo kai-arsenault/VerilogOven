@@ -18,5 +18,5 @@ The functionality includes 4 display options that can be triggered by 00, 01, 10
 The oven may be turned on or off at any time using SW0.
 
 ## Technical Details
-The .qsf file is made for DE10-Lite instrument 10M50DAF484C7G
+The .qsf file is made for DE10-Lite instrument 10M50DAF484C7G. <br>
 Quartus Prime Lite (19.1) was used for compiliing, running, and testing. 
